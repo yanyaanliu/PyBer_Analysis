@@ -13,14 +13,17 @@ V. Isualize, CEO of PyBer, has asked us to perform an exploratory analysis on co
 * The average fare per ride is lowest in urban cities ($24.5), the average fare price in suburban cities is $30.9 and the average fare price in rural cities is the most expensive ($34.6)
 
 <br />
-![summary](/resources/summary.png)
+
+![summary](/Resources/summary.png)
+
 <br />
 * There is a spike in fares at the of February in all urban, suburban and rural cities. 
 * Urban cities' fares are the highest at the end of February and beggining of March. 
 * Suburban cities' fares are the highest at the end of February. 
 * Rural cities' fares are the highest at the beginning of April. 
 <br />
-![linechart](/resources/PyBer_fare_summary.png)
+
+![linechart](/Resources/PyBer_fare_summary.png)
 <br />
 
 ## Summary 
