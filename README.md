@@ -11,6 +11,7 @@ V. Isualize, CEO of PyBer, has asked us to perform an exploratory analysis on co
 * Urban cities have 260% more rides than suburban cities and 1300% more than rural cities. 
 * Consistently, urban cities hvae the largest number of drivers (2405), suburban cities have 490 drivers and rural cities only have 78 drivers. 
 * The average fare per ride is lowest in urban cities ($24.5), the average fare price in suburban cities is $30.9 and the average fare price in rural cities is the most expensive ($34.6)
+
 <br />
 ![summary](/resources/summary.png)
 <br />
