@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 <br />
-V. Isualize, CEO of PyBer, has asked us to perform an exploratory analysis on company data. We want to find out how the data differs by city type and how those diffferences can be used to make better business decisions at PyBer. The analysis and visualizations produced will help Pyber improve access to ridesharing services and determine affordability for underserved neighborhoods.
+V. Isualize, CEO of PyBer, has asked us to perform an exploratory analysis on company data. We want to find out how the data differs by city type and how those differences can be used to make better business decisions at PyBer. The analysis and visualizations produced will help Pyber improve access to ridesharing services and determine affordability for underserved neighborhoods.
 <br />
 
 ## Results 
